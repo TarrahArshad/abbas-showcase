@@ -6,12 +6,12 @@ Welcome to my showcase repository.
 Here you’ll find selected highlights from my professional work across:
 
 - 🌐 Full-stack web & API development (ASP.NET MVC/WebForms, Node.js, .NET Core, PHP/Laravel, React, Angular, Vue, TypeScript, Next.js)  
-- 🖥️ Desktop & Low-Level Systems (WinForms, C#, F#, C, C++, OS development, Assembly, Linux kernel development with eBPF)  
+- 🖥️ Desktop & Low-Level Systems (WinForms, C#, F#, C, C++, OS development, Assembly, Linux kernel with eBPF)  
 - 📱 Mobile & Cross-Platform (Flutter, Xamarin, .NET MAUI, React Native, Native Android/Java, iOS Swift/Obj-C)  
 - 🔗 Blockchain & Smart Contracts (Solidity, Web3.js, Ethereum, Tron, Polygon, TRC20, DEX & staking systems)  
 - 🗄️ Databases & Backend (MongoDB, MySQL, SQL Server, DOS-based SQL systems, backend architectures)  
-- 🤖 AI & Automation (Trading Bots, Predictive Engines, P2P systems, scraping, AI-driven apps)  
-- 🎮 Game Development (DirectX since 2002, Unity 3D, game engine design and development)  
+- 🤖 AI & Automation (Trading Bots, Predictive Engines, P2P systems, web scraping, AI-driven apps)  
+- 🎮 Game Development (DirectX since 2002, Unity 3D, game engine design)  
 - 📐 System Architecture & Design (UML, Rational Rose 2004–2006, enterprise software architecture)  
 - ☁️ DevOps & Cloud (Docker, Git, CI/CD, Cloud deployment)  
 
@@ -20,69 +20,79 @@ Here you’ll find selected highlights from my professional work across:
 
 ---
 
-## 🧩 Featured Projects
+## 🏆 Featured Projects
 
-### 1️⃣ [Probin](https://probinpapendrecht.nl/) (2016, Netherlands)
-**Type:** Cross-Platform Mobile Shop App  
-**Tech Stack:** Xamarin (iOS & Android) + ASP.NET MVC Web Frontend  
-Built the mobile apps for a Dutch e-commerce platform; integrated with existing ASP.NET backend.
-
----
-
-### 2️⃣ Mobile App + ASP.NET Web Portal
-**Tech Stack:** Android (Java), ASP.NET WebForms  
-Driver tracking system with GPS & Google Maps; backend portal for management.
+### 1️⃣ [Probin](https://probinpapendrecht.nl/)  
+**📅 Year:** 2016, Netherlands  
+**💻 Tech Stack:** Xamarin (iOS & Android), ASP.NET MVC Web Frontend  
+**🌟 Description:** Mobile apps for Dutch e-commerce platform integrated with ASP.NET backend.  
 
 ---
 
-### 3️⃣ Jandro Mobile App (2016)
-**Tech Stack:** Android (Java), ASP.NET  
-Mobile shopping app with ASP.NET backend for data integration.
+### 2️⃣ [EcomSys](https://front.ecomsys.ir)  
+**📅 Year:** 2023+  
+**💻 Tech Stack:** Angular, .NET Core, Node.js, MongoDB  
+**🌟 Description:** Full-stack e-commerce platform with admin panel, frontend, backend integration, and multi-service architecture.  
 
 ---
 
-### 4️⃣ Trading Bots & Automation
-- **BitMax Arbitrage Bot:** Node.js automated buy/sell across multiple exchanges  
-- **TradingView Node.js Bot:** Fully automated trading system based on signals  
-- **Elliott Wave Pattern Recognition System:** Python-based market pattern detection  
-- **Futures Trading Tool (2018):** GUI tool simplifying futures trading operations  
+### 3️⃣ [AIConnective.tech](https://app.aiconnective.tech)  
+**📅 Year:** 2024  
+**💻 Tech Stack:** Node.js, React, Python, Solidity, Web3.js  
+**🌟 Description:** Conversational AI platform bridged to blockchain smart contracts for decentralized knowledge exchange.  
 
 ---
 
-### 5️⃣ AIConnective.tech
-**Type:** AI Chat System Bridged to Blockchain  
-**Tech Stack:** Node.js, React, Python, Solidity, Web3.js  
+### 4️⃣ [BetUtility](#)  
+**📅 Year:** 2022  
+**💻 Tech Stack:** Node.js, Python, Scraper Engines  
+**🌟 Description:** High-performance scraping engine for structured data extraction across multiple sources.  
 
 ---
 
-### 6️⃣ Arbify.ir
-**Type:** Multi-Exchange Arbitrage & Portfolio Manager  
-**Tech Stack:** Node.js, Axios, Express, MongoDB, HMAC-SHA512  
+### 5️⃣ [Coinatik.com](https://coinatik.com)  
+**📅 Year:** 2018  
+**💻 Tech Stack:** ASP.NET MVC, AngularJS, SQL Server  
+**🌟 Description:** P2P crypto exchange platform supporting user-to-user trading and portfolio management.  
 
 ---
 
-### 7️⃣ Octopus Capital
-**Type:** Blockchain Staking & Investment Sharing Platform  
-**Tech Stack:** Solidity, Web3.js, React, Node.js  
+### 6️⃣ [BitBix.io](https://bitbix.io)  
+**📅 Year:** 2017  
+**💻 Tech Stack:** ASP.NET MVC, AngularJS, .NET Core  
+**🌟 Description:** Game platform supporting crypto transactions; backend services for game and payment management.  
 
 ---
 
-### 8️⃣ Dunilab.org
-**Type:** Polygon DEX & Private Staking System  
-**Tech Stack:** Solidity, Hardhat, React, Node.js, Web3.js  
+### 7️⃣ [Arbify.ir](https://arbify.ir)  
+**📅 Year:** 2023  
+**💻 Tech Stack:** Node.js, Axios, Express, MongoDB, HMAC-SHA512  
+**🌟 Description:** Multi-exchange arbitrage system with automated buy–transfer–sell cycles, portfolio management, and smart routing.  
 
 ---
 
-### 9️⃣ Historical Game Projects
-- DirectX-based games (2002+)  
-- Unity 3D game projects (recent years)  
-- Game engine design, graphics, physics simulation  
+### 8️⃣ [Octopus Capital](#)  
+**📅 Year:** 2023  
+**💻 Tech Stack:** Solidity, Web3.js, React, Node.js  
+**🌟 Description:** Blockchain staking platform with automated investor share calculation.  
 
 ---
 
-### 🔟 MLM Projects (Last)
+## 📜 Historical & Legacy Projects
+
+- **Jandro Mobile App (2016):** Android (Java) + ASP.NET backend, shopping app  
+- **Driver Tracking System:** Android 2.1 + ASP.NET WebForms portal with GPS & Google Maps  
+- **Trading Bots & Automation:** BitMax Arbitrage Bot, TradingView Node.js Bot, Elliott Wave Pattern Recognition System, Futures Trading Tool (2018)  
+- **DirectX Game Development (2002+):** Desktop games and engine design  
+- **Unity 3D Projects:** Game projects and simulation  
+- **Probin Frontend Contribution:** Web system ASP.NET MVC  
+
+---
+
+## 🔺 MLM Projects (Last)
+
 - **Tronex DApp:** MLM system on Tron Network (Solidity, TRC20, React)  
-- **MyDollar DApp TRX:** TRC20-based MLM Platform (Solidity, Node.js, React)
+- **MyDollar DApp TRX:** TRC20-based MLM Platform (Solidity, Node.js, React)  
 
 ---
 
