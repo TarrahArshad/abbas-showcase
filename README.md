@@ -79,7 +79,7 @@ Each project includes demo videos and architecture breakdowns.
 ## 🌍 More
 - **Portfolio Website:** [sabetsoft.ir](https://sabetsoft.ir)  
 - **GitHub:** [tarraharshad](https://github.com/tarraharshad)  
-- **Email:** contact@sabetsoft.ir
+- **Email:** sabetsoft@gmail.com
 
 ---
 > 💬 Always open for long-term collaboration and innovative project partnerships.
