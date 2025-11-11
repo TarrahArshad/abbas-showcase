@@ -20,54 +20,61 @@ Here you’ll find selected highlights from my professional work across:
 
 ## 🧩 Featured Projects
 
-### 🤖 [AIConnective.tech](https://app.aiconnective.tech)
+### 1️⃣ [Probin](https://probinpapendrecht.nl/) (2016, Netherlands)
+**Type:** Cross-Platform Mobile Shop App  
+**Tech Stack:** Xamarin (iOS & Android)  
+Built the mobile apps for a Dutch e-commerce platform; frontend handled by ASP.NET MVC web system.  
+**Role:** Mobile app development and integration with existing ASP.NET backend.
+
+---
+
+### 2️⃣  
+**Type:** Mobile App + ASP.NET Web Portal  
+**Tech Stack:** Android (Java), ASP.NET  
+Driver tracking system with GPS & Google Maps integration; backend portal built with ASP.NET WebForms.
+
+---
+
+### 3️⃣ Trading Bots & Automation
+**Projects:**  
+- **BitMax Arbitrage Bot:** Automated buy/sell across multiple exchanges using Node.js  
+- **TradingView Node.js Bot:** Fully automated trading system based on TradingView signals  
+- **Elliott Wave Pattern Recognition System:** Python-based algorithmic system for market pattern detection  
+- **Futures Trading Tool (2018):** GUI tool to simplify futures trading operations  
+
+---
+
+### 4️⃣ [AIConnective.tech](https://app.aiconnective.tech)
 **Type:** AI Chat System Bridged to Blockchain  
 **Tech Stack:** Node.js, React, Python, Solidity, Web3.js  
-A conversational AI framework securely integrated with blockchain smart contracts for decentralized knowledge storage and signature verification.
+Conversational AI system integrated with smart contracts for decentralized knowledge storage.
 
 ---
 
-### 💹 [Arbify.ir](https://arbify.ir)
+### 5️⃣ [Arbify.ir](https://arbify.ir)
 **Type:** Multi-Exchange Arbitrage & Portfolio Manager  
 **Tech Stack:** Node.js, Axios, Express, MongoDB, HMAC-SHA512  
-Detects and executes arbitrage opportunities across Binance, KuCoin, and Gate.io; automates buy–transfer–sell cycles and portfolio tracking.
+Cross-exchange arbitrage with automated buy–transfer–sell cycles and portfolio tracking.
 
 ---
 
-### 🪙 Octopus Capital
+### 6️⃣ Octopus Capital
 **Type:** Blockchain Staking & Investment Sharing Platform  
 **Tech Stack:** Solidity, Web3.js, React, Node.js  
 DeFi system for staking and automated investor share distribution.
 
 ---
 
-### 🔺 Tronex DApp
-**Type:** MLM Smart Contract System (Tron Network)  
-**Tech Stack:** Solidity (TRON), React, TRC20  
-Decentralized MLM engine with real-time referral tracking and on-chain payout management.
-
----
-
-### 💵 MyDollar DApp TRX
-**Type:** TRC20-based MLM Platform  
-**Tech Stack:** Solidity, Node.js, React  
-Structured MLM platform on TRC20 token architecture — fully automated and transparent.
-
----
-
-### 🧬 [Dunilab.org](https://dunilab.org)
+### 7️⃣ Dunilab.org
 **Type:** Polygon DEX & Private Staking System  
 **Tech Stack:** Solidity, Hardhat, React, Node.js, Web3.js  
 Private decentralized exchange with integrated staking pools and ROI dashboards.
 
 ---
 
-### 📱 Notable Historical & Enterprise Projects
-- **Probin (2016, Netherlands):** Cross-platform mobile shop app (iOS & Android) using Xamarin  
-- **Driver Tracking System:** ASP.NET WebForms portal with GPS & Google Maps; Android 2.1 app for driver tracking  
-- **30+ Android Native Apps:** Java/Android SDK development for multiple clients  
-- **University/Research Projects:** Web scraping, AI experiments, scientific article completions  
-- **Master Thesis:** SQL database system development in DOS environment  
+### 8️⃣ MLM Projects (Last)
+- **Tronex DApp:** MLM system on Tron Network (Solidity, TRC20, React)  
+- **MyDollar DApp TRX:** TRC20-based MLM Platform (Solidity, Node.js, React)
 
 ---
 
