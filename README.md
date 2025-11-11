@@ -11,6 +11,8 @@ Here you’ll find selected highlights from my professional work across:
 - 🔗 Blockchain & Smart Contracts (Solidity, Web3.js, Ethereum, Tron, Polygon, TRC20, DEX & staking systems)  
 - 🗄️ Databases & Backend (MongoDB, MySQL, SQL Server, DOS-based SQL systems, backend architectures)  
 - 🤖 AI & Automation (Trading Bots, Predictive Engines, P2P systems, scraping, AI-driven apps)  
+- 🎮 Game Development (DirectX since 2002, Unity 3D, game engine design and development)  
+- 📐 System Architecture & Design (UML, Rational Rose 2004–2006, enterprise software architecture)  
 - ☁️ DevOps & Cloud (Docker, Git, CI/CD, Cloud deployment)  
 
 > ⚠️ Most source codes are private due to client confidentiality.  
@@ -22,57 +24,63 @@ Here you’ll find selected highlights from my professional work across:
 
 ### 1️⃣ [Probin](https://probinpapendrecht.nl/) (2016, Netherlands)
 **Type:** Cross-Platform Mobile Shop App  
-**Tech Stack:** Xamarin (iOS & Android)  
-Built the mobile apps for a Dutch e-commerce platform; frontend handled by ASP.NET MVC web system.  
-**Role:** Mobile app development and integration with existing ASP.NET backend.
+**Tech Stack:** Xamarin (iOS & Android) + ASP.NET MVC Web Frontend  
+Built the mobile apps for a Dutch e-commerce platform; integrated with existing ASP.NET backend.
 
 ---
 
-### 2️⃣  
-**Type:** Mobile App + ASP.NET Web Portal  
+### 2️⃣ Mobile App + ASP.NET Web Portal
+**Tech Stack:** Android (Java), ASP.NET WebForms  
+Driver tracking system with GPS & Google Maps; backend portal for management.
+
+---
+
+### 3️⃣ Jandro Mobile App (2016)
 **Tech Stack:** Android (Java), ASP.NET  
-Driver tracking system with GPS & Google Maps integration; backend portal built with ASP.NET WebForms.
+Mobile shopping app with ASP.NET backend for data integration.
 
 ---
 
-### 3️⃣ Trading Bots & Automation
-**Projects:**  
-- **BitMax Arbitrage Bot:** Automated buy/sell across multiple exchanges using Node.js  
-- **TradingView Node.js Bot:** Fully automated trading system based on TradingView signals  
-- **Elliott Wave Pattern Recognition System:** Python-based algorithmic system for market pattern detection  
-- **Futures Trading Tool (2018):** GUI tool to simplify futures trading operations  
+### 4️⃣ Trading Bots & Automation
+- **BitMax Arbitrage Bot:** Node.js automated buy/sell across multiple exchanges  
+- **TradingView Node.js Bot:** Fully automated trading system based on signals  
+- **Elliott Wave Pattern Recognition System:** Python-based market pattern detection  
+- **Futures Trading Tool (2018):** GUI tool simplifying futures trading operations  
 
 ---
 
-### 4️⃣ [AIConnective.tech](https://app.aiconnective.tech)
+### 5️⃣ AIConnective.tech
 **Type:** AI Chat System Bridged to Blockchain  
 **Tech Stack:** Node.js, React, Python, Solidity, Web3.js  
-Conversational AI system integrated with smart contracts for decentralized knowledge storage.
 
 ---
 
-### 5️⃣ [Arbify.ir](https://arbify.ir)
+### 6️⃣ Arbify.ir
 **Type:** Multi-Exchange Arbitrage & Portfolio Manager  
 **Tech Stack:** Node.js, Axios, Express, MongoDB, HMAC-SHA512  
-Cross-exchange arbitrage with automated buy–transfer–sell cycles and portfolio tracking.
 
 ---
 
-### 6️⃣ Octopus Capital
+### 7️⃣ Octopus Capital
 **Type:** Blockchain Staking & Investment Sharing Platform  
 **Tech Stack:** Solidity, Web3.js, React, Node.js  
-DeFi system for staking and automated investor share distribution.
 
 ---
 
-### 7️⃣ Dunilab.org
+### 8️⃣ Dunilab.org
 **Type:** Polygon DEX & Private Staking System  
 **Tech Stack:** Solidity, Hardhat, React, Node.js, Web3.js  
-Private decentralized exchange with integrated staking pools and ROI dashboards.
 
 ---
 
-### 8️⃣ MLM Projects (Last)
+### 9️⃣ Historical Game Projects
+- DirectX-based games (2002+)  
+- Unity 3D game projects (recent years)  
+- Game engine design, graphics, physics simulation  
+
+---
+
+### 🔟 MLM Projects (Last)
 - **Tronex DApp:** MLM system on Tron Network (Solidity, TRC20, React)  
 - **MyDollar DApp TRX:** TRC20-based MLM Platform (Solidity, Node.js, React)
 
