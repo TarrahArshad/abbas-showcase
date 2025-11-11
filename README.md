@@ -12,7 +12,7 @@ Here you’ll find selected highlights from my professional work across:
 - 🗄️ Databases & Backend (MongoDB, MySQL, SQL Server, DOS-based SQL systems, backend architectures)  
 - 🤖 AI & Automation (Trading Bots, Predictive Engines, P2P systems, web scraping, AI-driven apps)  
 - 🎮 Game Development (DirectX since 2002, Unity 3D, game engine design)  
-- 📐 System Architecture & Design (UML, Rational Rose 2004–2006, enterprise software architecture)  
+- 📐 System Architecture & Design (UML, Rational Rose, enterprise software architecture)  
 - ☁️ DevOps & Cloud (Docker, Git, CI/CD, Cloud deployment)  
 
 > ⚠️ Most source codes are private due to client confidentiality.  
