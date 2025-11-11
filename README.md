@@ -71,10 +71,17 @@ Here you’ll find selected highlights from my professional work across:
 
 ---
 
-### 8️⃣ [Octopus Capital](#)  
+### 8️⃣ Private Blockchain Staking Platform  
 **📅 Year:** 2023  
 **💻 Tech Stack:** Solidity, Web3.js, React, Node.js  
 **🌟 Description:** Blockchain staking platform with automated investor share calculation.  
+
+---
+
+### 9️⃣ Private Polygon DEX  
+**📅 Year:** 2023  
+**💻 Tech Stack:** Solidity, Hardhat, React, Node.js, Web3.js  
+**🌟 Description:** Private decentralized exchange with integrated staking pools and ROI dashboards.  
 
 ---
 
@@ -89,10 +96,10 @@ Here you’ll find selected highlights from my professional work across:
 
 ---
 
-## 🔺 MLM Projects (Last)
+## 🔺 MLM / Placeholder Projects (Last)
 
-- **Tronex DApp:** MLM system on Tron Network (Solidity, TRC20, React)  
-- **MyDollar DApp TRX:** TRC20-based MLM Platform (Solidity, Node.js, React)  
+- **MLM Platform 1** – previously Tronex DApp (Solidity, TRC20, React)  
+- **MLM Platform 2** – previously MyDollar DApp TRX (Solidity, Node.js, React)  
 
 ---
 
