@@ -88,28 +88,28 @@ Here you’ll find selected highlights from my professional work across:
 ### 🔟 BOT Trader TradingView Signal (Ongoing)
 **📅 Year:** 2025
 **💻 Tech Stack:** Node.js, TradingView Webhooks, Exchange APIs
-**🌟 Description:** **(100% Complete)** Dedicated, high-reliability system for converting real-time TradingView signals به دستورات اجرایی در صرافی‌های متمرکز، برای استراتژی‌های با تأخیر کم.
+**🌟 Description:** **(100% Complete)** Dedicated, high-reliability system for converting real-time TradingView signals into instant execution orders on various centralized exchanges (CEX) for low-latency strategies.
 
 ---
 
 ### 11️⃣ CEX Arbitrage Engine (Ongoing)
 **📅 Year:** 2025
 **💻 Tech Stack:** Node.js, Python, WebSocket, HMAC-SHA512
-**🌟 Description:** **(60% Complete)** نسل جدید ربات آربیتراژ بین صرافی‌های متمرکز (CEX) با تمرکز بر بهینه‌سازی سرعت انتقال و الگوریتم‌های هوشمند مسیریابی معاملات.
+**🌟 Description:** **(60% Complete)** Next-generation inter-exchange arbitrage bot focused on optimizing transfer speed, intelligent routing algorithms, and minimizing slippage across multiple CEX platforms.
 
 ---
 
 ### 12️⃣ HummingBot Strategy & Development
 **📅 Year:** 2025
 **💻 Tech Stack:** Python, HummingBot Framework, Custom Strategies
-**🌟 Description:** توسعه و پیاده‌سازی استراتژی‌های معاملاتی سفارشی با استفاده از فریم‌ورک متن‌باز **HummingBot**، متمرکز بر اجرای استراتژی‌های **مارکت میکر (Market Making)**، آربیتراژ و Liquidity Provision.
+**🌟 Description:** Development and implementation of customized trading strategies using the open-source **HummingBot** framework, specializing in **Market Making**, arbitrage, and Liquidity Provision across centralized and decentralized exchanges.
 
 ---
 
 ### 13️⃣ Touchable ERC404 Platform (Ongoing)
 **📅 Year:** 2025
 **💻 Tech Stack:** Solidity, Hardhat, Web3.js, React
-**🌟 Description:** **(90% Complete)** پیاده‌سازی استاندارد توکن **ERC404** برای امکان‌پذیر ساختن مالکیت کسری (Fractional Ownership) توکن‌های NFT، شامل توسعه کامل قراردادهای هوشمند و رابط کاربری غیرمتمرکز.
+**🌟 Description:** **(90% Complete)** Implementation of the experimental **ERC404** token standard to enable fractional ownership of NFTs, including full smart contract development and dApp front-end integration.
 
 ---
 
@@ -121,10 +121,10 @@ Here you’ll find selected highlights from my professional work across:
 - **Unity 3D Projects:** Game projects and simulation  
 - **Probin Frontend Contribution:** Web system ASP.NET MVC  
 - **Advanced Trading Systems & Automation (2018 - 2022):**
-    - **BitMax Arbitrage Bot (C# / WinForms):** توسعه یک ربات آربیتراژ سفارشی با تأخیر کم برای صرافی BitMax، مجهز به رابط کاربری دسکتاپ (WinForms) برای مدیریت و مشاهده لحظه‌ای معاملات.
-    - **Elliott Wave Pattern Recognition System (C#):** طراحی و کدنویسی یک سیستم تشخیص الگوهای **الیوت ویو (Elliott Wave Pattern Recognition)** با استفاده از C# برای تحلیل تکنیکال پیشرفته.
-    - **TradingView Signal Executor (Node.js):** بک‌اند Node.js برای دریافت سیگنال‌های وب‌هوک (Webhooks) از TradingView و اجرای خودکار دستورات در API فیوچرز صرافی BitMax.
-    - **Futures Trading Tool (Python):** ابزارهای معاملاتی پیشرفته و ربات‌های ژنریک ساخته شده با **پایتون** برای اجرای خودکار استراتژی‌ها.
+    - **BitMax Arbitrage Bot (C# / WinForms):** Development of a custom, low-latency arbitrage bot for the BitMax exchange, featuring a desktop user interface (WinForms) for real-time monitoring and trade management.
+    - **Elliott Wave Pattern Recognition System (C#):** Design and coding of an **Elliott Wave Pattern Recognition** system using C# for advanced technical analysis and automated signal generation.
+    - **TradingView Signal Executor (Node.js):** Node.js backend service to receive webhook signals from TradingView indicators and automatically execute corresponding orders on the BitMax Futures API.
+    - **Futures Trading Tool (Python):** Development of advanced trading tools and generic strategic bots using **Python** for automated strategy execution.
 
 ---
 
