@@ -1,4 +1,4 @@
-# Abbas Sabetghadam (SabetSoft)
+# Abbas Sabetghadam 
 
 **Full-Stack Software Architect | 25+ Years of Experience**
 
@@ -128,7 +128,7 @@ Here you’ll find selected highlights from my professional work across:
 
 ---
 
-## 🔺 MLM / Placeholder Projects (Last)
+## 🔺 MLM 
 
 - **MLM Platform 1** – previously Tronex DApp (Solidity, TRC20, React)  
 - **MLM Platform 2** – previously MyDollar DApp TRX (Solidity, Node.js, React)  
@@ -142,7 +142,6 @@ Each project includes demo videos and architecture breakdowns.  
 ---
 
 ## 🌍 More
-- **Portfolio Website:** [sabetsoft.ir](https://sabetsoft.ir)  
 - **GitHub:** [tarraharshad](https://github.com/tarraharshad)  
 - **Email:** sabetsoft@gmail.com
 
