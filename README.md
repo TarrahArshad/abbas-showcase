@@ -142,7 +142,7 @@ Each project includes demo videos and architecture breakdowns.  
 ---
 
 ## 🌍 More
-- **GitHub:** [tarraharshad](https://github.com/sabetghadam)  
+- **GitHub:** [sabetghadam](https://github.com/sabetghadam)  
 - **Email:** sabetsoft@gmail.com
 
 ---
